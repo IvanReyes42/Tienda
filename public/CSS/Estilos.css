@@ -1,0 +1,157 @@
+.Encabezado{
+    background: #296B55;
+    color: white;
+    text-align: center;
+
+}
+body{
+    font-family: Arial;
+}
+#Menu{
+    background: #C6E4DA;
+}
+.Menu a,.Menu a:Hover {
+    color: #296B55;
+    text-decoration: none;
+}
+.navbar-light, .bg-light{
+    background: #C6E4DA;
+}
+#Logo{
+    height: 250px;
+    width: 310px;
+}
+#LogoPequeño{
+    height: 70px;
+    width: 100px;
+}
+.Carusel{
+    height: 700px;
+    width: auto;
+}
+.Titulo{
+    color: white;
+    font-size: 20px;
+}
+#carouselExampleControls{
+    position: relative;
+}
+#carouselExampleControls .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 35px;
+}
+#carouselExampleControls .overlay .container,
+#carouselExampleControls .overlay .row{
+    height:100%
+}
+.Categoria{
+    height: 270px;
+    width: 270px;
+}
+.Pagos{
+
+}
+.Categoria:hover{
+    opacity: 0.5;
+}
+a{
+    text-decoration: none;
+    color: transparent;
+}
+#Nostros{
+    background: #C6E4DA;
+    color: #2E6E59;
+}
+.Sucursales{
+    text-align: center;
+}
+.google-maps {
+    position: relative;
+    padding-bottom: 30%;
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100% ;
+}
+#pie{
+    background: #296B55;
+    color: white;
+}
+#pie derechos{
+    text-align: center;
+}
+.liston{
+
+    color: #296B55;
+    text-align: center;
+}
+html {
+    min-height: 100%;
+    position: relative;
+}
+body {
+    margin: 0;
+    margin-bottom: 40px;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+}
+.Lapiz, .Lapiz:hover, .Basura:active{
+
+    color: #296B55;
+    cursor: pointer;
+}
+.Basura, .Basura:hover, .Basura:active{
+
+    color: red;
+    cursor: pointer;
+}
+.botonVerde{
+    background:#296B55 ;
+    color: white;
+}
+.link{
+    color: white;
+}
+.link:hover{
+    color: #C6E4DA;
+}
+
+.Rebaja{
+    text-decoration:line-through;
+    color: red;
+}
+.card-header{
+    background-color: #296B55;
+    color: white;
+}
+.nav-item:hover, .nav-item:active{
+    background: #C6E4DA;
+    color: #296B55;
+
+}
+.nav-item{
+padding: 0px;
+    margin: 0px;
+}
+.ImgModal{
+    height: 1024px;
+    width: 768px;
+}
+
+
